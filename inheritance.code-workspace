@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../inheritance"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Sales"
+		},
+		{
+			"path": "../bootstrap-sep"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bootstrap-sep"
+	}
+}
